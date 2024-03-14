@@ -14,5 +14,5 @@ Node.js: Para la implementación del backend y la gestión de las peticiones.
 Otros: Se han utilizado otras tecnologías y herramientas como CSS para el diseño y estilizado de la interfaz, y diversas bibliotecas de React para funcionalidades específicas.
 
 
-Acceso a proyecto: https://app.netlify.com/sites/melodic-nougat-076bb0/overview
+Acceso a proyecto: https://melodic-nougat-076bb0.netlify.app/
 (Las fotografias aún corren en servidor local, por lo que debe estar encendido para acceder a todas ellas.
